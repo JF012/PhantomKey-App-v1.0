@@ -1,3 +1,5 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.41+-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white) ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-green) ![Encryption](https://img.shields.io/badge/Encryption-AES--256-red) ![License](https://img.shields.io/badge/License-Open%20Source-blue) ![Status](https://img.shields.io/badge/Status-v1.0-orange) ![Lang](https://img.shields.io/badge/Lang-ES%20%7C%20EN-yellow)
+
 # 🔐 PhantomKey
 
 **Your passwords, invisible to everyone.**
@@ -149,3 +151,4 @@ This project is open source and available for educational and portfolio purposes
 <p align="center">
   Made with Flutter 💙 by <a href="https://github.com/JF012">JF012</a>
 </p>
+
